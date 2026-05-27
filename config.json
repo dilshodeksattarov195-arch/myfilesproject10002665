@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperpelete",
+        "uuid": 24699220,
+        "checksum": "b2ro7g"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
